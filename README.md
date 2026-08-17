@@ -11,7 +11,7 @@
 
 - **短链直达：** https://e.tb.cn/h.8iObjVH9gQlGIFU?tk=h0EGTYnhQ32  
 - 口令：`CZ321`  
-- 搜索关键词：`VTX316TTS语音模块文字转语音合成芯片兼容SYN6658\\6288串口协议`
+- 搜索关键词：`VTX316TTS语音模块文字转语音合成芯片兼容SYN6658\6288串口协议`
 
 > 商品页标注「7 天无理由退货」。链接失效时请用关键词在淘宝重新搜索「VTX316 TTS」。
 
@@ -150,14 +150,13 @@ tts.speak("[m3][v8][s5]你好[p500]世界")
 
 ```text
 vtx316-tts-driver/
-├── README.md                  # 本说明（含购买链接）
+├── README.md           # 本说明（含购买链接）
 ├── requirements.txt
-├── LICENSE
-├── vtx316.py                  # 驱动主库
-├── demo.py                    # 快速试播
-├── demo_voices.py             # 全部发音人试听
+├── vtx316.py           # 驱动主库
+├── demo.py             # 快速试播
+├── demo_voices.py      # 全部发音人试听
 └── docs/
-    └── VTX316_taobao_manual.md  # 淘宝图文资料整理版
+    └── VTX316_淘宝资料.md   # 淘宝图文资料整理版
 ```
 
 ---
